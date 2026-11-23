@@ -108,7 +108,3 @@ Lower `minNeighbors` or `scaleFactor`, or retrain the cascade with more varied i
 - [OpenCV](https://opencv.org/): video capture, Haar cascade detection, drawing
 - [imutils](https://github.com/PyImageSearch/imutils): frame resizing helper
 - [Matplotlib](https://matplotlib.org/): displaying the detection frame
-
-## License
-
-Add your license of choice here (for example, MIT).
